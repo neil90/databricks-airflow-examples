@@ -1,3 +1,7 @@
+# client related dags
+dags/client_dags
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
